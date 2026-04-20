@@ -1,0 +1,3 @@
+[submodule "giftapp-backend"]
+	path = giftapp-backend
+	url = https://github.com/ankit-work-agarwal/giftapp-backend
